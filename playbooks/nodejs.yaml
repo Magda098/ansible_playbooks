@@ -6,4 +6,4 @@
         name:
           - node.js
           - npm
-        state:present
+        state: present
